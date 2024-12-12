@@ -1,5 +1,5 @@
 local HttpService = game:GetService("HttpService")
-local url = " -[add your webhook url]- "
+local url = " -[add your discord webhook url]- "
 
 game.Players.PlayerAdded:Connect(function(Player)
 	-- Construct the URL for the ropoxy/roblox Thumbnails API
